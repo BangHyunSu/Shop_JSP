@@ -1,0 +1,32 @@
+.wrap {
+	box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+.main_content {
+	text-align: center;
+}
+
+.wrap_Name_Maker {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+img {
+	 height: 250px;
+}
+
+.h2 {
+	font-size: 24px;
+}
+
+.prodDiscrip {
+	padding: 30px;
+    font-weight: 600;
+    font-size: 18px;
+    letter-spacing: 1.5px;
+    line-height: 2.2;
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+	box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
